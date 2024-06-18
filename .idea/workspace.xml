@@ -5,20 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a36e809-51f9-45f7-8246-1ec90bf8ce14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab023.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_03062024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_03062024/Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/Lab18.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2i112cx09GgmQ4seavqZCed8ptd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,6 +54,12 @@
     "Python.Lab011.executor": "Run",
     "Python.Lab012.executor": "Run",
     "Python.Lab013.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020.executor": "Run",
+    "Python.Lab18.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -98,13 +97,31 @@
       <option name="project" value="LOCAL" />
       <updated>1718644724384</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="variables and data types">
+      <option name="closed" value="true" />
+      <created>1718652180941</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718652180941</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ex_0706">
+      <option name="closed" value="true" />
+      <created>1718653540660</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718653540660</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding Lab001.py" />
     <MESSAGE value="adding Lab002.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding Lab002.py" />
+    <MESSAGE value="variables and data types" />
+    <MESSAGE value="ex_0706" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex_0706" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
