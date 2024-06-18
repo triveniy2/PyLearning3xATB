@@ -1,0 +1,9 @@
+#Escape sequences
+print("Hello \tWorld")
+print("Hello \nWorld")
+print("Hello \\World")
+print("Hello \'World\'")
+print("Hello \"World\"")
+print("Hello \bWorld")
+print("Hello \rWorld")
+print("Hello \fWorld")

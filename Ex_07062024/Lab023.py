@@ -26,3 +26,4 @@ print(shopping_list)
 print(shopping_list.index("butter"))
 shopping_list[0]="triveni"
 print(shopping_list)
+print(shopping_list.sort())
