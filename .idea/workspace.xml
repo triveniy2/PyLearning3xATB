@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a36e809-51f9-45f7-8246-1ec90bf8ce14" name="Changes" comment="Task 1 &amp; 2">
-      <change afterPath="$PROJECT_DIR$/Task #2/Task#2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task #2/Task#2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task #2/Task#2_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task #2/Task#2_4.py" afterDir="false" />
+    <list default="true" id="2a36e809-51f9-45f7-8246-1ec90bf8ce14" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab047.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +76,16 @@
     "Python.Lab032.executor": "Run",
     "Python.Lab033.executor": "Run",
     "Python.Lab035.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab039.executor": "Run",
+    "Python.Lab040.executor": "Run",
+    "Python.Lab041.executor": "Run",
+    "Python.Lab042.executor": "Run",
+    "Python.Lab043.executor": "Run",
+    "Python.Lab044.executor": "Run",
+    "Python.Lab045.executor": "Run",
+    "Python.Lab046.executor": "Run",
+    "Python.Lab047.executor": "Run",
     "Python.Lab18.executor": "Run",
     "Python.Task#2_1.executor": "Run",
     "Python.Task#2_2.executor": "Run",
@@ -82,6 +98,35 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Lab045" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATBNew" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_12062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_12062024/Lab045.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab045" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -170,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718782955607</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Task#2">
+      <option name="closed" value="true" />
+      <created>1718789050240</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718789050240</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,7 +233,8 @@
     <MESSAGE value="ex_0706" />
     <MESSAGE value="Operators" />
     <MESSAGE value="Task 1 &amp; 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 1 &amp; 2" />
+    <MESSAGE value="Task#2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task#2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
