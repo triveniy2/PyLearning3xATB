@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a36e809-51f9-45f7-8246-1ec90bf8ce14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/Task1_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/Task1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/Task1_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task2/Task2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task2/Task2_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab031.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_10062024/Lab031.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +72,8 @@
     "Python.Lab033.executor": "Run",
     "Python.Lab035.executor": "Run",
     "Python.Lab18.executor": "Run",
+    "Python.Task1_3.executor": "Run",
+    "Python.Task2_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -149,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718728454640</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Operators">
+      <option name="closed" value="true" />
+      <created>1718732168292</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718732168292</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -166,6 +176,10 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Ex_05062024/Lab005.py</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Task1/Task1_1.py</url>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
