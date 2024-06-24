@@ -1,0 +1,4 @@
+print("Pramod","Amit","SB")
+
+
+
