@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a36e809-51f9-45f7-8246-1ec90bf8ce14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab61.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/sod2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/sumofdigits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab079.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_14062024/Lab052.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_14062024/Lab052.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +102,10 @@
     "Python.Lab072.executor": "Run",
     "Python.Lab073.executor": "Run",
     "Python.Lab074.executor": "Run",
+    "Python.Lab075.executor": "Run",
+    "Python.Lab076.executor": "Run",
+    "Python.Lab077.executor": "Run",
+    "Python.Lab078.executor": "Run",
     "Python.Lab18.executor": "Run",
     "Python.Lab61.executor": "Run",
     "Python.Task#2_1.executor": "Run",
@@ -266,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718797583122</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary=" functions">
+      <option name="closed" value="true" />
+      <created>1719225639513</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719225639513</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -279,7 +283,8 @@
     <MESSAGE value="Task#2" />
     <MESSAGE value="conditions and loops" />
     <MESSAGE value="match case and functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="match case and functions" />
+    <MESSAGE value=" functions" />
+    <option name="LAST_COMMIT_MESSAGE" value=" functions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
